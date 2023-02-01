@@ -1,11 +1,11 @@
 # the title of your wiki
-wiki_title: Thinking Tools Map
+wiki_title: TFT Map
 
 # the author of your wiki
-author: Mathew Lowry, Peter Kaminski & Bill Anderson
+author: Mathew Lowry, Peter Kaminski, Bill Anderson
 
 # the centralized Git repo (an HTML link is good)
-repo: '<a href="https://github.com/Fellowship-of-the-Link/TfT-test1">GitHub/FotL/TfT-test1</a>'
+repo: '<a href="https://github.com/Fellowship-of-the-Link/tftmap">GitHub/FotL/tftmap</a>'
 
 # the license for the wiki (a Creative Commons HTML link is good)
 license: '<a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>'

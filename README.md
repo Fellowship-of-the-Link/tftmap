@@ -1,4 +1,4 @@
-# Thinking Tools Map
+# Tools for Thought Map
 
 _Mapping the thinking tool landscape with collective intelligence._
 
