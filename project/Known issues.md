@@ -12,4 +12,4 @@ This will become part of a larger [[Style Guide for This Wiki]] page, which is n
 
 ## Name and Email Boxes for Comments Not Properly Spaced
 
-The layout and spacing of the name and email boxes in the comment form is currently broken (squished together).  Our developers say something about "CSS, box model, it's harder than you think,"" blah, blah, blah.  It's on our to-do list to fix. If _you_ see what the CSS problem is (it's a little subtle), please let us know!
+The layout and spacing of the name and email boxes in the comment form is currently broken (squished together).  Our developers say something about "CSS, box model, it's harder than you think," blah, blah, blah.  It's on our to-do list to fix. If _you_ see what the CSS problem is (it's a little subtle), please let us know!
