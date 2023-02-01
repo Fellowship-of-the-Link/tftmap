@@ -1,5 +1,7 @@
 # inbox curation
 
+_one of the [[Practices]]_
+
 ## What it is
 Inbox curation is a practices for reducing today's "information firehose" of content coming at you 24/7 down to a garden hose of the best, most interesting and relevant content, ensuring you spend 90% of your time on the best 10% of the content reaching your various inboxes from these Priority Sources.
 
