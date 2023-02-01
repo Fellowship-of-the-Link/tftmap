@@ -7,7 +7,7 @@ One of the key ideas underpinning collective intelligence is to not force everyo
 In Phase 1 of the site (see [[Project plan]]), however, we're limiting contributions to:
 
 * suggest an edit to existing pages via commenting (see [[How to comment]])
-* [[#Become a Massive Wiki contributor]] to create and edit pages
+* become a Massive Wiki contributor (below) to both edit pages and create new ones
 * simply [contact us](Contact us).
 
 [[Mathew Lowry]] also welcomes comments to the series of blog posts that starts with [[A Minimum Viable Ecosystem for collective intelligence]].
