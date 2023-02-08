@@ -42,7 +42,7 @@ These are both zettelkasten overviews:
 
 The figure shows how these all link together and how the scores submitted via Personal Profiles are aggregated into a spidergraph, which provides a sort of "executive summary" entry Point on the home page:
 
-![[tft-map-architecture-v0.png]]
+![[tft-map-architecture-v1.png]]
 
 **Personal profiles are key because newcomers need stories as well as scores**. Each personal profile therefore tells the reader: *How** does this person combine **Which** Tools and Practices together*? 
 
