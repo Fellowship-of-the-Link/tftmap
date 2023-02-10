@@ -1,5 +1,7 @@
 # Mathew's "ecosystem" bundle (1/1/2023)
-[[A Minimum Viable Ecosystem for collective intelligence]]
+
+[[A Minimum Viable Ecosystem for collective intelligence]] summarises:
+
 * [[Thinking and writing in a decentralised collective intelligence ecosystem]]
 * [[Social knowledge graphs for collective intelligence]]
 * [[How Artificial Intelligence will finance Collective Intelligence]]
