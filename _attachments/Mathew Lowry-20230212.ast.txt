@@ -1,0 +1,985 @@
+{
+  "type": "Document",
+  "footnotes": {},
+  "children": [
+    {
+      "type": "Heading",
+      "level": 1,
+      "children": [
+        {
+          "type": "RawText",
+          "content": "Mathew Lowry"
+        }
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "children": [
+        {
+          "type": "RawText",
+          "content": "One of the [[People]]."
+        }
+      ]
+    },
+    {
+      "type": "Heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "RawText",
+          "content": "About me"
+        }
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "children": [
+        {
+          "type": "RawText",
+          "content": "Information architect, communication strategist, etc etc. Founder, [[myhub]]."
+        }
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "children": [
+        {
+          "type": "RawText",
+          "content": "More, follow, subscribe & contact: "
+        },
+        {
+          "type": "AutoLink",
+          "children": [
+            {
+              "type": "RawText",
+              "content": "https://myhub.ai/@mathewlowry/about/"
+            }
+          ],
+          "target": "https://myhub.ai/@mathewlowry/about/",
+          "mailto": true
+        }
+      ]
+    },
+    {
+      "type": "Heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "RawText",
+          "content": "My ideal thinking tool(s)"
+        }
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "children": [
+        {
+          "type": "RawText",
+          "content": "One tool which supports me in reading, note-making, writing and publishing without forcing me to invest major time in becoming a power user and/or taking expensive courses. In an ideal world it would also handle my todos and time."
+        }
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "children": [
+        {
+          "type": "RawText",
+          "content": "How close is my current system (below) to this ideal? Not at all, which is why I'd like to see [[A Minimum Viable Ecosystem for collective intelligence]] emerge."
+        }
+      ]
+    },
+    {
+      "type": "Heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "RawText",
+          "content": "My current tools and practices"
+        }
+      ]
+    },
+    {
+      "type": "List",
+      "children": [
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "I use  [[inbox curation]] to identify high-priority sources of content: in [[gmail]] I auto-label high-priority [[newsletter]], and I maintain a [[twitter list]]"
+                }
+              ]
+            }
+          ],
+          "loose": false
+        },
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "I use [[GTD]]: I have recurring [[calendar]] items and tasks to [[scan]] priority sources; [[queue]] the best content to read to [[Pocket]]; read, [[annotate]] and [[tag]] the best content into [[myhub]]"
+                }
+              ]
+            }
+          ],
+          "loose": false
+        },
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "I also use [[progressive summarisation]] to better embed the knowledge,  via [[zettelkasten]] overviews in [[myhub]], [[enewsletter]] editions and original posts."
+                }
+              ]
+            }
+          ],
+          "loose": false
+        },
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "I put all other notes into [[Roam]], almost always starting with the [[daily note]], but am currently migrating to [[Obsidian]]"
+                }
+              ]
+            }
+          ],
+          "loose": false
+        },
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "I publish via [[myhub]], medium and my [[newsletter]]."
+                }
+              ]
+            }
+          ],
+          "loose": false
+        }
+      ],
+      "loose": false,
+      "start": null
+    },
+    {
+      "type": "Paragraph",
+      "children": [
+        {
+          "type": "RawText",
+          "content": "More: "
+        },
+        {
+          "type": "Link",
+          "target": "https://myhub.ai/@mathewlowry/?tags=content+strategy&types=think&timeframe=anytime&quality=all&tags=productivity",
+          "title": "",
+          "children": [
+            {
+              "type": "RawText",
+              "content": "All the Stuff I Think tagged Content strategy and Productivity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "RawText",
+          "content": "Thinking Tool Ratings"
+        }
+      ]
+    },
+    {
+      "type": "List",
+      "children": [
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "[[Roam]]"
+                }
+              ]
+            },
+            {
+              "type": "List",
+              "children": [
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "My current confidence with this tool: 3"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Note-making: 8"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Writing/Publishing: 2"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Idea discovery: 7"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "List",
+                      "children": [
+                        {
+                          "type": "ListItem",
+                          "leader": "*",
+                          "prepend": 4,
+                          "children": [
+                            {
+                              "type": "Paragraph",
+                              "children": [
+                                {
+                                  "type": "RawText",
+                                  "content": "I can find any note very easily, via [[search]] and/or [[backlink]] and/or [[daily note]], but I haven't figured out how to get it to spontaneously propose them"
+                                }
+                              ]
+                            }
+                          ],
+                          "loose": false
+                        }
+                      ],
+                      "loose": false,
+                      "start": null
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "User-friendliness: 7"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "List",
+                      "children": [
+                        {
+                          "type": "ListItem",
+                          "leader": "*",
+                          "prepend": 4,
+                          "children": [
+                            {
+                              "type": "Paragraph",
+                              "children": [
+                                {
+                                  "type": "RawText",
+                                  "content": "you can get started pretty easily"
+                                }
+                              ]
+                            }
+                          ],
+                          "loose": false
+                        }
+                      ],
+                      "loose": false,
+                      "start": null
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Power: 5"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "List",
+                      "children": [
+                        {
+                          "type": "ListItem",
+                          "leader": "*",
+                          "prepend": 4,
+                          "children": [
+                            {
+                              "type": "Paragraph",
+                              "children": [
+                                {
+                                  "type": "RawText",
+                                  "content": "very powerful - lots of add-ons - but I found it difficult to figure it out"
+                                }
+                              ]
+                            }
+                          ],
+                          "loose": false
+                        }
+                      ],
+                      "loose": false,
+                      "start": null
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Community: 2"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "List",
+                      "children": [
+                        {
+                          "type": "ListItem",
+                          "leader": "*",
+                          "prepend": 4,
+                          "children": [
+                            {
+                              "type": "Paragraph",
+                              "children": [
+                                {
+                                  "type": "RawText",
+                                  "content": "too cultish/geeky for me"
+                                }
+                              ]
+                            }
+                          ],
+                          "loose": false
+                        }
+                      ],
+                      "loose": false,
+                      "start": null
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Cost: 1"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "List",
+                      "children": [
+                        {
+                          "type": "ListItem",
+                          "leader": "*",
+                          "prepend": 4,
+                          "children": [
+                            {
+                              "type": "Paragraph",
+                              "children": [
+                                {
+                                  "type": "RawText",
+                                  "content": "one of the most expensive tools I pay for"
+                                }
+                              ]
+                            }
+                          ],
+                          "loose": false
+                        }
+                      ],
+                      "loose": false,
+                      "start": null
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Data sovereignty: 2"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "List",
+                      "children": [
+                        {
+                          "type": "ListItem",
+                          "leader": "*",
+                          "prepend": 4,
+                          "children": [
+                            {
+                              "type": "Paragraph",
+                              "children": [
+                                {
+                                  "type": "RawText",
+                                  "content": "stored by Roam, exports possible."
+                                }
+                              ]
+                            }
+                          ],
+                          "loose": false
+                        }
+                      ],
+                      "loose": false,
+                      "start": null
+                    }
+                  ],
+                  "loose": false
+                }
+              ],
+              "loose": false,
+              "start": null
+            }
+          ],
+          "loose": false
+        },
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "[[Obsidian]]"
+                }
+              ]
+            },
+            {
+              "type": "List",
+              "children": [
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "My current confidence with this tool: 4"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Openness: 8"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Note-making: 7"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Writing/Publishing: 1"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Idea discovery: 5"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "User-friendliness: 3"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Power: 8"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Multiplayer: 1"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Help: 3"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Community: 8"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Cost: 9"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Data sovereignty: 10"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                }
+              ],
+              "loose": false,
+              "start": null
+            }
+          ],
+          "loose": false
+        },
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "[[Pocket]]"
+                }
+              ]
+            },
+            {
+              "type": "List",
+              "children": [
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "My current confidence with this tool: 8"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Note-making: 1"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Writing/Publishing: 1"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Idea discovery: 3"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "User-friendliness: 7"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "Cost: 8"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                }
+              ],
+              "loose": false,
+              "start": null
+            }
+          ],
+          "loose": false
+        }
+      ],
+      "loose": false,
+      "start": null
+    },
+    {
+      "type": "ThematicBreak"
+    },
+    {
+      "type": "Heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "RawText",
+          "content": "Revision Notes"
+        }
+      ]
+    },
+    {
+      "type": "List",
+      "children": [
+        {
+          "type": "ListItem",
+          "leader": "*",
+          "prepend": 2,
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [
+                {
+                  "type": "RawText",
+                  "content": "2023-01-22: revised to"
+                }
+              ]
+            },
+            {
+              "type": "List",
+              "children": [
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "reflect the dimensions in [[How we measure thinking tools]]"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                },
+                {
+                  "type": "ListItem",
+                  "leader": "*",
+                  "prepend": 4,
+                  "children": [
+                    {
+                      "type": "Paragraph",
+                      "children": [
+                        {
+                          "type": "RawText",
+                          "content": "include \"confidence\" per tool - no idea if we will use this, tbd"
+                        }
+                      ]
+                    }
+                  ],
+                  "loose": false
+                }
+              ],
+              "loose": false,
+              "start": null
+            }
+          ],
+          "loose": false
+        }
+      ],
+      "loose": false,
+      "start": null
+    }
+  ]
+}
+
