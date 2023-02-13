@@ -23,7 +23,7 @@ This site is a Massive Wiki, which means you can:
 
 A more complete user manual is available on the [Massive Wiki](http://Massive Wiki/) site, but in brief, you'll need:
 
-* a GitHub account, so you can fork [this site's repository](https://github.com/Fellowship-of-the-Link/TfT-test1) of files
+* a GitHub account, so you can fork [this site's repository](https://github.com/Fellowship-of-the-Link/tftmap) of files
 * Git on your computer, so you can 'pull' new versions of the files from the repository to your computer, and 'push' your edits back to it
 * software to edit the markdown files: we recommend [Obsidian](https://obsidian.md/) (with the Obsidian Git plugin) or [Pulsar-Edit](https://pulsar-edit.dev/), but Massive Wiki works with whatever tool you would like to use
 
