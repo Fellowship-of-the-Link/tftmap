@@ -46,7 +46,7 @@ In the following, when skipping items, handle the case that there may be zero it
 7. Skip items until you find a list.
 8. At level 0 of the list, save the content of the list item as the name of a tool.
 9. At level 1 of the list, you'll find `(text): (number)`. Save the number as the score for the dimension indicated by the text. There may be a special dimension, `My current confidence with this tool`.
-10. At level 2 of the list, you may find notes related to this dimension/score. (Pete asks, what should we do with these notes?)
+10. At level 2 of the list, you may find notes related to this dimension/score. (Pete asks, **what should we do with these notes?**)
 
 ## Saving the Data to the Correct Pages
 
@@ -54,7 +54,7 @@ TBD: the workflow to save the data gathered in the deconstruct workflow above in
 
 One question (by Pete): We'll end up with an array called `tools_or_practices`.  The code can't tell if a particular item is a tool or a practice by parsing the page, because there isn't a set structure; the sentences are freeform English.
 
-Therefore, to put the items in the right place, we'll do something like:
+Therefore, to put the items in the right place, **we'll do something like this?**
 
 1. Check for an existing page by the name of the item. If it exists, it is either a tool or practice (by inspection of the first link), so then handle it as such.
 2. If the page doesn't exist, create a new page in a working folder called `Tools or Practices`, and do the best you can writing the data into the page.  (Perhaps write the data as a tool, then a separator, then as a practice.) Add the name of this page to a to-do list for human gardeners to move and format into either a Tool or Practice page.
