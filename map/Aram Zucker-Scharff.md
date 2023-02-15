@@ -30,7 +30,7 @@ TKTK
 * I publish via [[WordPress]], [[11ty]], [[Substack]] and [[Jekyll]]
 * I use [[folder structure]] and [[tagging]] as techniques to keep my [[Obsidian]] notes organized.
 * I use [[Dropbox]], [[git]], [[GitHub]], [[Obsidian]] mobile, and [[FolderSync]] to keep my notes synced between devices.
-* I use [[750Words]] for personal journalism
+* I use [[750Words]] for personal journaling
 
 ## Thinking Tool Ratings
 
