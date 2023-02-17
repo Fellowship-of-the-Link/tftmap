@@ -6,31 +6,36 @@ One of the [[People]].
 
 Updated profile, social links, how to pronounce my name, live at my <a href="https://aramzs.github.io/aramzs/" rel="me">Who Am I</a> page.
 
-[Latest info, major posts, and socials](https://aramzs.glitch.me/). 
+[Latest info, major posts, and socials](https://aramzs.glitch.me/).
 
-## My ideal thinking tool(s) 
+## My ideal thinking tool(s)
 
 TKTK
 
 ## My current tools and practices
 
 * I am bad at using email but I try to handle it using [[GTD]].
-* I sign up to every newsletter I encounter, then process it through custom code called Backreads to find significant links. 
-* I use [[Feedly]] as a feed reader. 
+* I sign up to every newsletter I encounter, then process it through custom code called Backreads to find significant links.
+* I use [[Feedly]] as a feed reader.
 * I mostly interact with Twitter through [[twitter list]]s.
-* All my note-taking happens in [[Obsidian]] and occasionally [[VSCode]]. 
-* I use [[PressForward]] to retain text archives of important links and reference material. I am one of the primary developers of this tool. 
-* I use [[11ty]] to generate context sites that I use to store, categorize and archive contextually-related blocks of information. 
-* I feed [[Instapaper]], [[Twitter]], and [[Mastodon]] into [[Pinboard]] for easy search and link finding. 
-* I use [[Instapaper]] to build an article-reading queue. 
-* I use [[GoodReads]] to build a book-reading queue.  
-* I use [[Letterboxd]] to build a movie-watching queue. 
-* I want something to build a TV-watching queue. 
-* I use [[Are.na]] for storing design ideas from other sites. 
+* All my note-taking happens in [[Obsidian]] and occasionally [[VSCode]].
+* I use [[PressForward]] to retain text archives of important links and reference material. I am one of the primary developers of this tool.
+* I use [[11ty]] to generate context sites that I use to store, categorize and archive contextually-related blocks of information.
+* I feed [[Instapaper]], [[Twitter]], and [[Mastodon]] into [[Pinboard]] for easy search and link finding.
+* I use [[Instapaper]] to build an article-reading queue.
+* I use [[GoodReads]] to build a book-reading queue.
+* I use [[Letterboxd]] to build a movie-watching queue.
+* I want something to build a TV-watching queue.
+* I use [[Are.na]] for storing design ideas from other sites.
 * I publish via [[WordPress]], [[11ty]], [[Substack]] and [[Jekyll]]
-* I use [[folder structure]] and [[tagging]] as techniques to keep my [[Obsidian]] notes organized. 
-* I use [[Dropbox]], [[git]], [[GitHub]], [[Obsidian]] mobile, and [[FolderSync]] to keep my notes synced between devices. 
-
+* I use [[folder structure]] and [[tagging]] as techniques to keep my [[Obsidian]] notes organized.
+* I use keywords to add additional structure to my [[Obsidian]] notes.
+	* `up::`
+	* `down::`
+	* `tags:: #tagname`
+* I use [[YAML]] to add page aliases to leverage with wikilink-style links and to add additional metadata to my notes.
+* I use [[Dropbox]], [[git]], [[GitHub]], [[Obsidian]] mobile, and [[FolderSync]] to keep my notes synced between devices.
+* I use [[750Words]] for personal journaling
 
 ## Thinking Tool Ratings
 
@@ -112,6 +117,23 @@ TKTK
 	* Community: 2
 	* Cost: 7
 	* Data sovereignty: 10
+* [[750Words]]
+	* My current confidence with this tool: 9
+	* Openness: 1
+	* Note-making: 6
+	* Writing/Publishing: 8
+	* Idea discovery: 5
+	* User-friendliness: 10
+	* Power: 3
+	* Multiplayer: 1
+	* Help: 2
+	* Community: 2
+	* Cost: 10
+	* Data sovereignty: 5
+
 ---
 
 ## Revision Notes
+
+20220215:
+* Added 750Words
