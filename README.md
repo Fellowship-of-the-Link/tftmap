@@ -28,8 +28,8 @@ See all  [[Tools]].
 * [[Mathew Lowry]]
 * [[Peter Kaminski]]
 * [[Bill Anderson]]
-* Username
-* Username
+* [[Aram Zucker-Scharff]]
+* [[Flancian]]
 * Username
 
 See all [[People]].
