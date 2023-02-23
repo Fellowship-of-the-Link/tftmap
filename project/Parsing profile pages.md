@@ -38,7 +38,7 @@ Here is pseudocode that describes the high-level process to deconstruct a profil
 In the following, when skipping items, handle the case that there may be zero items that need to be skipped to reach the next step of the workflow.
 
 1. For all pages in the `map` directory, convert the page to an AST.
-2. In each page, if the paragrah after the H1 header contains `[[People]]`, assume this is a profile page. Otherwise, skip this page.
+2. In each page, if the paragraph after the H1 header contains `[[People]]`, assume this is a profile page. Otherwise, skip this page.
 3. Skip items until you find an H2 header that contains `My current tools and practices`.
 4. Skip items until you find a list.
 5. Read each list item in the list, pull out the wikilinks, and save the list item into an array of `tools_or_practices`. Create one item in the `tools_or_practices` array for each wikilink, and index the item by the wikilink.
@@ -46,7 +46,7 @@ In the following, when skipping items, handle the case that there may be zero it
 7. Skip items until you find a list.
 8. At level 0 of the list, save the content of the list item as the name of a tool.
 9. At level 1 of the list, you'll find `(text): (number)`. Save the number as the score for the dimension indicated by the text. There may be a special dimension, `My current confidence with this tool`.
-10. At level 2 of the list, you may find notes related to this dimension/score. (Pete asks, **what should we do with these notes?**)
+10. At level 2 of the list, you may find notes related to this dimension/score. (Pete asks, **what should we do with these notes?** Current decision: they're used by humans reading the profile page, and don't need to be handled by this code.)
 
 ## Saving the Data to the Correct Pages
 
