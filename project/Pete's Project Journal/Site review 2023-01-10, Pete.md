@@ -1,5 +1,7 @@
 # Site review 2023-01-10, Pete
 
+_a post in [[Pete's Project Journal]]_
+
 I'm doing a review of the site, partly for the "Check/Complete" tasks in the task tracker, and partly with the idea to generally tidy up the site.
 
 Some thoughts:   
