@@ -6,7 +6,7 @@ I've been working on code to implement [[Parsing profile pages]]. The parsing pa
 
 Flancian's, Bill's, and Pete's pages throw errors because of missing sections or something, but that shouldn't be too hard to fix in the code.
 
-I updated the [[Tools]] and [[Practices]] pages by running the parser on all those Profile pages, which automatically found all the [[torps]] (tools OR practices).  I did some manual cleanup, then manually sorted the list into each of the Tools or Practices pages.
+I updated the [[Tools]] and [[Practices]] pages by running the parser on all those Profile pages, which automatically found all the [[torps]] (tools or practices).  I did some manual cleanup, then manually sorted the list into each of the Tools or Practices pages.
 
 I'm now starting to work on what to do with the parsed data.
 
