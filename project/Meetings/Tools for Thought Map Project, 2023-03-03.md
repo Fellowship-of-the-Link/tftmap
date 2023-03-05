@@ -23,17 +23,19 @@ After the meeting, the permanent address will be:
 ## TftMap Builder
 
 - [ ] How to merge the static content (human-written) and dynamic content (as created by the code) on Tool and Practice pages.  The slickest way might be to write the dynamic content to a separate page (e.g., `Obsidian - who, how.md`) and then transclude (embed) that page onto the tool page (e.g. `Obsidian.md`).  To make that work, we'd have to implement transclusion in [[Massive Wiki Builder]]
-- [ ] Sort order for auto-generated lists of tools and ratings sentences
-    - [ ] sort by confidence for tools, tbd for practices
+- [x] Sort order for auto-generated lists of tools and ratings sentences - discussed - decision:
+    - [ ] #PK: sort by confidence for tools
+    - [ ] tbd for practices
 
 ## todos
-- edit 'About' to make clear this is a pilot, changes here are not auto-reflected back into massive.wiki as a whole
-- explore 'how to add "recommended resources" to site, via profile'
+- [ ] #ML edit 'About' to make clear this is a pilot, changes here are not auto-reflected back into massive.wiki as a whole
+- [ ] add kanban for project task mgt #PK
+- [ ] #ML explore 'how to add "recommended resources" to site, via profile'
     - add task to kanban
     - explore via blogpst
     - get comments
     - discuss
-- apply 'permanent version' feature to entire site?
+- [ ] apply 'permanent version' feature to entire site? - add idea to kanban #ML 
 
 ## Links from chat
 
@@ -96,3 +98,13 @@ if someone edits the compound page, will the changes show in the component pages
 Steven Pinker, The Better Angels of Our Nature: Why Violence Has Declined
 
 OntoText graphs?
+
+
+---
+
+## Revision Notes
+* 2023-03-05: 
+	* turned todos into checklist items, added Who tags
+		* #ML [[Mathew Lowry]]
+		* #PK [[Peter Kaminski]]
+	* add task for #PK for kanban file

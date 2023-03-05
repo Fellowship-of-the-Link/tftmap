@@ -22,3 +22,6 @@ A blog post is in the works, based around this video, which sets out the **_Why_
 ## Earlier thoughts
 
 * [[Building collective intelligence from social knowledge graphs]]
+
+## Ideas under development
+* [[Mathew's blog ideas]]
