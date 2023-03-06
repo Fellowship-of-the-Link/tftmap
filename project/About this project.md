@@ -10,13 +10,13 @@ _tbd_
 As explained originally in [[Building collective intelligence from social knowledge graphs#Bootstrapping upwards|Building collective intelligence from social knowledge graphs]], this is hopefully the first in *"a series of pilot projects where:*
 
 - *the tools we have today are used to link ideas in a specific domain (and the people behind them) together in a decentralised way*
-- *in the process demonstrating decentralised collective intelligence*
+- *in the process **demonstrating** decentralised collective intelligence*
 - *we learn from the experience to create a new iteration of slightly better tools as a result, along with a slightly bigger audience,*
 - *rinse, repeat.*"
 
 (That post has been developed since into a series, starting [[A Minimum Viable Ecosystem for collective intelligence|here]]).
 
-This particular pilot project is working with [[Massive Wiki]]. Future projects might try other solutions, or expand this one to work with them.
+This pilot project is working with [[Massive Wiki]]. Future projects might try other solutions, or expand this one to work with them. As it's a pilot, moreover, any changes we experiment with here will not necessarily be mainstreamed back into the core massive.wiki sitebuilder. 
 
 ## How will this map be structured?
 
