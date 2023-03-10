@@ -21,7 +21,7 @@
 
 ## todos
 - [x] #ML edit 'About' to make clear this is a pilot, changes here are not auto-reflected back into massive.wiki as a whole
-- [ ] add kanban for project task mgt #PK
+- [x] add kanban for project task mgt #PK (see [[Task board]])
 - [ ] #ML explore 'how to add "recommended resources" to site, via profile'
     - add task to kanban
     - explore via blogpst
