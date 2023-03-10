@@ -20,7 +20,7 @@
     - [ ] tbd for practices
 
 ## todos
-- [ ] #ML edit 'About' to make clear this is a pilot, changes here are not auto-reflected back into massive.wiki as a whole
+- [x] #ML edit 'About' to make clear this is a pilot, changes here are not auto-reflected back into massive.wiki as a whole
 - [ ] add kanban for project task mgt #PK
 - [ ] #ML explore 'how to add "recommended resources" to site, via profile'
     - add task to kanban
