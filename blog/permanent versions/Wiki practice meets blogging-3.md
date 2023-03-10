@@ -1,3 +1,8 @@
+---  
+#blog
+date: 2022-12-15
+___
+
 # Wiki practice meets blogging
 
 ## About this page
@@ -45,7 +50,6 @@ Better, perhaps, to have **a canonical blog post which sets out the current vers
 *ML:* The above applies to blog posts because blog posts are (usually) written by a single author and are presented in a reverse chronological feed which implies Newer is Better. Wiki pages, on the other hand, are collaborative efforts where the authorship can be almost impossible to track. 
 
 *WLA (2022-12-11):* It seems to me that on wikis the authorship is not as important as the text of the wiki pages, and, perhaps, how well that content is written and cited.
-* *ML (2023-03-06):* yes, that's the most important difference. See below.
 
 *ML:* They are also not time-critical in nature and so are presented as part of an interconnected body of knowledge organised more by topic than creation date (how often do you visit Wikipedia to view it's "latest page"?). 
 
@@ -55,19 +59,9 @@ tbc
 
 ## Combining blogs and wikis
 
-^dfa0a7
+*ML:*  How would a site which combines wikis and blogs look?
 
-*ML:*  How would a site which combines wikis and blogs look? As both ML and WLA pointed out above, authorship is very different. 
-
-In a collaborative site like massive.wiki, bloggers might be reticent to write a blog post there, as all other members can edit it. On the other hand, if they are interested in massive.wiki, chances are they want to share their thoughts to spark a conversation. In blogs, that means attracting comments. But what happens when the blogger learns something from those comments? The blogger can either:
-* update the post, with all the problems that entails: the comments, for example, now look strange as they are reacting to a previous version of the text, now lost! 
-* create a new post, with all the problems that entails, above.
-
-If, however, there's a permanent version system in place, the blogger can:
-* post their piece and see it evolve from "*what one person thinks*" into a page representing the collective intelligence of the community
-* create a permanent version so they can always point to "*this was what I originally wrote*"
-
-So pemanent versions users on a collaborative wiki site to blog *and* contribute their ideas to a more collective intelligence.
+tbc
 
 ## Massive Wiki user requirements
 
@@ -79,16 +73,16 @@ So pemanent versions users on a collaborative wiki site to blog *and* contribute
 
 ### Designing a first class function
 
-^aeddc3
+*ML:* In our chat we discussed a "first class function" for Massive Wiki for making a new major version of a file. With a click:
 
-*ML:* In our chat we discussed a "first class function" for Massive Wiki for making a new major version of a file, (currently version "N"). With one click, this function:
-
-* increments the version number of the file being edited by 1, to "N+1". The file remains the "active" or current version of the file, available at the primary URL (this one is "*domain/blog/Wiki practice meets blogging*") 
-* creates a copy of the (version "N") file in an archive folder, applying the permanent copy template. This is thus the permanent copy of the previous version of the active file. 
-	* It's filename is the same, except with the version number and creation date appended (eg *Wiki practice meets blogging-N-YYYYMMDD*).
-		* Q: does it need a hash as well?
-	* the permanent copy template includes a link to forward to the current version of the file, a "search for all versions" feature and an explanatory "this is a snapshot" label 
-* adds a link from the current version of the file to the previous one (ie, the current "N+1" version of the file links back to "N"). As this link is kept when a new permanent version is created, a chain links each file to the next older version ("N" links back to "N-1", and so on)
+* the version number of the file being edited is increased by 1, but remains the "current" version of the file, available at the primary URL (this one is "*domain/blog/The Way of the Wiki meets blogging*") 
+* a copy of the file is created in an archive folder, becoming the permanent copy of the previous version. It's filename includes the current version's filename appended with the version number and the creation date.
+	* Q: does it need a hash as well?
+* a link to the previous version is added to the current version (site feature)
+* all permanent copies can easily feature:
+	* a link to the current version (this is fixed at the first version, so doesn't need to be updated manually)
+	* a "search for all versions" (site feature: part of the permanent copy template) 
+	* an explanatory "this is a snapshot" label - see for example wikipedia's view history  (site feature: part of the permanent copy template)
 
 One problem I see here is that the Editor must decide to create a major version **before starting editing**, not after having worked on the content.
 
@@ -107,10 +101,9 @@ How is set out in detail in [[Manually creating permanent versions on this wiki]
 
 ## Revision Notes
 
-* 2023-03-06: new version created, developing [[#^dfa0a7|Combining blogs and wikis]] and further tidying up [[#^aeddc3|Designing a first class function]] 
 * (29/01/2023) extracted and generalised [[Manually creating permanent versions on this wiki]] to make this page more readable
 * version control (currently managed manually) 
 	* this is version: current
 	* here is the current version: [[Wiki practice meets blogging]]
-	* previous version:  [[Wiki practice meets blogging-3]]
+	* previous version:  [[Wiki practice meets blogging 2]]
 
