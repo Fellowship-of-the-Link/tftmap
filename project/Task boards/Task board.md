@@ -4,6 +4,9 @@ kanban-plugin: basic
 
 ---
 
+# Project tasks 
+This is the markdown view of the tasks currently underway. Viewed in Obsidian, with the help of the Kanban plugin, you will see it as a kanban board.
+
 ## For Review / Discussion
 
 **Complete**
