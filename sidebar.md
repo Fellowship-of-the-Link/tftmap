@@ -28,3 +28,9 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 [[Blog posts]]  
 [[Known issues]]  
 [[Contact us]]  
+
+## General Navigation
+
+[Search](/search.html)  
+[All Pages](/all-pages.html)  
+[Recent Changes](/recent-pages.html)
