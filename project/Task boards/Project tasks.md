@@ -3,7 +3,6 @@
 kanban-plugin: basic
 
 ---
-This is the markdown view of this project's tasks. Viewed in Obsidian, with the help of the Kanban plugin, you will see it as a kanban board.
 
 ## For Review / Discussion
 
@@ -22,6 +21,7 @@ This is the markdown view of this project's tasks. Viewed in Obsidian, with the 
 
 ## Backlog
 
+- [ ] clean up / organize "dimensions" pages
 - [ ] fix CSS in comment form #PK
 - [ ] fill out sections on [[Peter Kaminski]] profile page #PK
 - [ ] Figure out internal hyperlinks

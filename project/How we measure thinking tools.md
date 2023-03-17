@@ -29,8 +29,8 @@ All scores (including Confidence) are on a 1-10 scale (terrible - brilliant):
 | Multiplayer        | Allows teamwork                                                                   | Group-based collaboration: groups, permissions, workflows, version control, commenting, moderation...                                           |
 | Help               | Is it easy to find high-quality documentation and answers to common questions?    | Well-organised onboarding, documentation & FAQ system.                                                                                           |
 | Community          | Is there a supportive community around the tool                                   | Helpful community, active 3rd party developers, etc.                                                                                            |
-| Cost               | How expensive is the tool                                                         | Free, or at least a v. useful free version in a freemium model                                                                                 |
-| Data sovereignty   | Who owns your data?                                                               | Your files on your PC.                                                                                                                           |
+| Cost               | How expensive is the tool                                                         | Free, or at least a v. useful free version in a freemium model. (Less is better.)                                                                                 |
+| Data sovereignty   | Who owns your data?                                                               | Your files on your PC. (Sovereignty - you control the files - is better.)                                                                                                                          |
 | 
 
 ---
