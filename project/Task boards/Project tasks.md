@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Project tasks
 
-
+This is the markdown view of this project's tasks. Viewed in Obsidian, with the help of the Kanban plugin, you will see it as a kanban board.
 
 ## For Review / Discussion
 
@@ -48,6 +48,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","hide-tags-in-title":true,"hide-date-in-title":true,"hide-tags-display":true}
+{"kanban-plugin":"basic","hide-tags-in-title":false,"hide-date-in-title":true,"hide-tags-display":true}
 ```
 %%
