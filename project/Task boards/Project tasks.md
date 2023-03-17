@@ -4,8 +4,9 @@ kanban-plugin: basic
 
 ---
 
-# Project tasks 
-This is the markdown view of this project's tasks. Viewed in Obsidian, with the help of the Kanban plugin, you will see it as a kanban board.
+## Project tasks
+
+
 
 ## For Review / Discussion
 
@@ -14,6 +15,7 @@ This is the markdown view of this project's tasks. Viewed in Obsidian, with the 
 
 ## WIP / Doing
 
+- [ ] create [[TFT Map Builder]] #PK
 
 
 ## Up Next
@@ -22,6 +24,8 @@ This is the markdown view of this project's tasks. Viewed in Obsidian, with the 
 
 ## Backlog
 
+- [ ] fix CSS in comment form #PK
+- [ ] fill out sections on [[Peter Kaminski]] profile page #PK
 
 
 ***
