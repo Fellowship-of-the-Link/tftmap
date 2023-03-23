@@ -3,7 +3,6 @@
 kanban-plugin: basic
 
 ---
-This is the markdown view of this project's tasks. Viewed in Obsidian, with the help of the Kanban plugin, you will see it as a kanban board.
 
 ## For Review / Discussion
 
@@ -18,13 +17,16 @@ This is the markdown view of this project's tasks. Viewed in Obsidian, with the 
 ## Up Next
 
 - [ ] permanent versions and version control:
+- [ ] retrieve bullets for tasks from git log (sigh)
+- [ ] move back to Airtable from Kanban
+- [ ] push [[TFT Map Builder]] to repo in FoTL github org
 
 
 ## Backlog
 
+- [ ] clean up / organize "dimensions" pages
 - [ ] fix CSS in comment form #PK
 - [ ] fill out sections on [[Peter Kaminski]] profile page #PK
-- [ ] Figure out internal hyperlinks
 - [ ] Discuss internal project pages vs. external-facing pages
 - [ ] Finalise how we will use "confidence in score"
 - [ ] add 'download .md of this page' link to massive.wiki template, incorporate into [[How to contribute]]
@@ -37,6 +39,7 @@ This is the markdown view of this project's tasks. Viewed in Obsidian, with the 
 
 - [ ] add kanban for project task mgt #PK
 - [ ] Add bug report to Kanban plugin, "Mark cards in this list as<br>complete" should be "Enable archive checkbox" or something
+- [ ] Figure out internal hyperlinks
 
 %% kanban:settings
 ```
