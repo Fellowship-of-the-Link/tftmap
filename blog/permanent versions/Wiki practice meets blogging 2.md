@@ -128,6 +128,6 @@ As set out above, I'm testing this with versions 1 & 2 before pushing both to th
 ## Revision Notes
 
 * version control (currently managed manually) 
-	* this is version: current
+	* this is version: 2
 	* here is the current version: [[Wiki practice meets blogging]]
 	* previous version:  [[The Way of the Wiki meets blogging 1]]

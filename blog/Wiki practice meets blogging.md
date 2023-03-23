@@ -45,6 +45,7 @@ Better, perhaps, to have **a canonical blog post which sets out the current vers
 *ML:* The above applies to blog posts because blog posts are (usually) written by a single author and are presented in a reverse chronological feed which implies Newer is Better. Wiki pages, on the other hand, are collaborative efforts where the authorship can be almost impossible to track. 
 
 *WLA (2022-12-11):* It seems to me that on wikis the authorship is not as important as the text of the wiki pages, and, perhaps, how well that content is written and cited.
+
 * *ML (2023-03-06):* yes, that's the most important difference. See below.
 
 *ML:* They are also not time-critical in nature and so are presented as part of an interconnected body of knowledge organised more by topic than creation date (how often do you visit Wikipedia to view it's "latest page"?). 
@@ -60,10 +61,12 @@ tbc
 *ML:*  How would a site which combines wikis and blogs look? As both ML and WLA pointed out above, authorship is very different. 
 
 In a collaborative site like massive.wiki, bloggers might be reticent to write a blog post there, as all other members can edit it. On the other hand, if they are interested in massive.wiki, chances are they want to share their thoughts to spark a conversation. In blogs, that means attracting comments. But what happens when the blogger learns something from those comments? The blogger can either:
+
 * update the post, with all the problems that entails: the comments, for example, now look strange as they are reacting to a previous version of the text, now lost! 
 * create a new post, with all the problems that entails, above.
 
 If, however, there's a permanent version system in place, the blogger can:
+
 * post their piece and see it evolve from "*what one person thinks*" into a page representing the collective intelligence of the community
 * create a permanent version so they can always point to "*this was what I originally wrote*"
 
