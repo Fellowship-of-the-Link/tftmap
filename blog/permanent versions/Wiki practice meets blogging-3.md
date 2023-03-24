@@ -103,7 +103,7 @@ How is set out in detail in [[Manually creating permanent versions on this wiki]
 
 * (29/01/2023) extracted and generalised [[Manually creating permanent versions on this wiki]] to make this page more readable
 * version control (currently managed manually) 
-	* this is version: current
+	* this is version: 3
 	* here is the current version: [[Wiki practice meets blogging]]
 	* previous version:  [[Wiki practice meets blogging 2]]
 
