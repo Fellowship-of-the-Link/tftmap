@@ -1,3 +1,5 @@
+# Adding Recommended Resources
+
 It's been suggested that the information architecture needs a fourth content type: **Recommended Resources**, defined (roughly, for now) as a useful resource for using a tool and/or practice, or combining them together, etc. Typical Resources would probably include blog posts, online courses, books, videos, etc.
 
 How might that look?
@@ -33,6 +35,8 @@ There are different ways of doing this.
 ### b) Bullet points in the Personal Profile
 
 In this picture, the member includes Recommended Resources as bullet points in his/her People Profile, and the TfTMap builder embeds them wherever relevant. Overall I think this is the better choice, although it probably does (or should) limit the amount of value the member can add to just a few words.
+
+
 ![[tft-map-architecture-v2-resources-b.png]]
 
 
