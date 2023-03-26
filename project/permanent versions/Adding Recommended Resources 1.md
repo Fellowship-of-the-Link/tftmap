@@ -48,7 +48,6 @@ So, which one is best, or can one of these be made better? Post a comment or edi
 
 * 2023-03-26: created
 * version control (currently managed manually) 
-	* this is version: current
+	* this is version: 1
 	* here is the current version: [[Adding Recommended Resources]]
-	* previous version:  [[Adding Recommended Resources 1]]
-
+	* previous version: N/A
