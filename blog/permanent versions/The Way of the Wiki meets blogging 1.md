@@ -1,5 +1,7 @@
 # The Way of the Wiki meets blogging
 
+`This is a permanent version, or snapshot, of this page. Please see Revision notes, below, for more details.`
+
 ## About this page
 
 ***Please note: this is a permanent copy of this page. Please see Revision notes, below, for the latest version and history.***
