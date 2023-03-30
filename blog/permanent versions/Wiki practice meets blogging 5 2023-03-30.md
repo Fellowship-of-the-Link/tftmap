@@ -1,5 +1,7 @@
 # Wiki practice meets blogging
 
+`This is a permanent version, or snapshot, of this page. Please see Revision notes, below, for more details.`
+
 ## About this page
 
 *ML:* we ([[Mathew Lowry]],  [[Peter Kaminski]], [[Bill Anderson]])  had a great chat as we prepared version 1 of this site on the difference in philosophy between wikis and blogging. We decided to write something together on it using Massive Wiki, to explore the issue by writing about it and to test he various collaboration Contribute and Commenting options we are proposing to this site's contributors. Key links:

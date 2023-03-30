@@ -31,7 +31,7 @@ How does this apply to blog posts and wikis?
 
 **Wiki pages** are changing all the time - they're living documents, maintained by (hopefully) armies. They are *not* time-critical, and so are presented as part of an interconnected body of knowledge organised more by topic than creation date (how often do you visit Wikipedia to view it's "latest page"?). 
 
-**Blog posts,** on the other hand, are supposed to be snapshots of what the blogger was thinking *the very moment* they hit 'publish', presented in a reverse chronological feed which implies Newer is Better. While they do get updates, it's a matter of honour in the blogosphere to explicitly state any 'major version' updates upfront, to avoid accusations of  surreptiously editing "what I said 3 years ago" to better match today's reality. With the reverse chronological presentation of blog posts, many bloggers will simply write a new post when their views change rather than update an old post few people will read anyway.
+**Blog posts,** on the other hand, are supposed to be snapshots of what *one person* - the blogger, not a collective - was thinking *the very moment* they hit 'publish'. Posts are presented in a reverse chronological feed which implies Newer is Better. While they do get updates, it's a matter of honour in the blogosphere to explicitly state any 'major version' updates upfront, to avoid accusations of  surreptiously editing "*what I said 3 years ago*" to better match today's reality. With the reverse chronological presentation of blog posts, many bloggers will simply write a new post when their views change rather than update an old post few people will read anyway.
 
 As a blogger, Mathew found writing a new post just to update an old one a pretty bad solution: after all, the old one remains online, unchanged and now an innacurate representation of the blogger's views. Of course s/he could update the old post to add a link point to the new one... but when there are 5 versions they'll all need an  update when s/he wants to add a sixth.
 
@@ -45,11 +45,11 @@ The canonical version's URL would never change, but its content can: before an a
 
 ![[permanentversioning.png]]
 
-To ensure visitors can see how the post evolved, the canonical post needs to link back to the most recent permanent version, which in turn links back further. And each permanent version should point forward (at least) to the canonical version, for people who discover it via search engines and want to find the current, canonical version.
+To ensure visitors can see how the post evolved, the canonical post must link back to the most recent permanent version, which in turn links back further. And each permanent version should point forward (at least) to the canonical version, for people who discover a permanent version via search engines.
 
 ## Blogging in a wiki
 
-Wiki sites tend to not feature blogs, as bloggers are often reticent to write a blog post on a platform where other members can edit it. That's a shame, as there are a lot of bloggers out there who could add their ideas to collective intelligence sites if they felt their authorship was better respected.
+Wiki sites tend to not feature blogs, as bloggers are often reticent to write a blog post on a platform where other members can edit it. That's a shame, as there are a lot of bloggers out there who could add their ideas to collective intelligence sites if they felt their authorship was better acknowledged.
 
 Permanent versions square that circle, allowing the blogger to:
 
@@ -60,21 +60,21 @@ Permanent versions square that circle, allowing the blogger to:
 
 ## How would this look in practice?
 
-In Massive Wiki, Git manages every version of every file, committed by each contributor, ideally with the contributor's comments (the end March 2023 update, for example, was accompanied by "*permanent version blogpost - new version for wider consumption*"). 
+In Massive Wiki, Git manages every version of every file, committed by each contributor, ideally with the contributor's comments (the end March 2023 major update, for example, was accompanied by "*permanent version blogpost - new version for wider consumption*"). 
 
-While these "Git commit comments" *can* distinguish between a new version submitted to fix a typo and a new version, like this one, which is far more signficant, these ccomments are not visible to site visitors, although they can be accessed on github if the repository is public (see the [TfTMap GitHub repository](https://github.com/Fellowship-of-the-Link/TfT-test1/commits/main)). 
+While these "Git commit comments" *can* indicate which updates are minor and which are major, they are not visible to site visitors, although they can be accessed on github if the repository is public (see the [TfTMap GitHub repository](https://github.com/Fellowship-of-the-Link/TfT-test1/commits/main)). 
 
-While Git fulfils the requirements for managing minor versions off-the-shelf, therefore, major version changes need to be better signalled to visitors by the wiki's editors on the site content itself. How might that look? 
+While Git fulfils the requirements for managing minor versions off-the-shelf, therefore, major version changes need to be better signalled to visitors by the editors on the site content itself. How might that look? 
 
 ### A "create permanent version" button
 
 Ideally, we'd build a "first class function" for Massive Wiki for making a new major version of a file. With one click, this function:, applied to version "N" of a file:
 
-* increments its version number to "N+1". This file remains the "active" or current version of the file, available at the primary URL 
+* increments its version number to "N+1". This file remains the "active" or current version of the file, available at the original, unchanged URL.
 * creates a copy of version "N" in an archive folder, applying the permanent copy template. This permanent copy of version "N": 
 	* has the version number and creation date appended to the filename (eg *Wiki practice meets blogging-N-YYYYMMDD*).
-	* includes a link to forward to the current version of the file, a "search for all versions" feature, and an explanatory "this is a snapshot" label 
-* adds a link from the current version of the file to the newly created permanent version (ie, the current "N+1" version of the file links back to "N"). As this link is kept when a new permanent version is created, a chain links each file to the next older version ("N" links back to "N-1", and so on)
+	* includes a link to forward to the current version of the file, a "search for all versions" feature, and an explanatory "this is a snapshot" label.
+* adds a link from the current version of the file to the newly created permanent version (ie, the current "N+1" version of the file links back to "N"). As this link is kept when a new permanent version is created, a chain links each file to the next older version ("N" links back to "N-1", and so on).
 
 The main problem I see here is that the Editor must decide to create a major version **before starting editing**, not after having worked on the content.
 
@@ -83,7 +83,7 @@ The main problem I see here is that the Editor must decide to create a major ver
 While a first class function would be nice, it's very easy to do manually, as set out in detail in [[Manually creating permanent versions on this wiki]]. In brief, the creation of a major version entails the following manual processes:
 
 * creating a copy and moving it into a "permanent versions" subfolder
-* editing two lines in the new permanent version
+* editing two lines in the new permanent version and adding a preface signalling that it's not the current version
 * editing one line in the current version
 
 Simple!
