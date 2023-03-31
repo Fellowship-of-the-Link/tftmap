@@ -1,5 +1,5 @@
 # Suspending Judgment
 
-One of the [[Tools]].
+One of the [[Practices]].
 
 A [[cognitive habit]].
