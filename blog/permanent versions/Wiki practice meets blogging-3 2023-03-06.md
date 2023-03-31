@@ -1,9 +1,6 @@
----  
-#blog
-date: 2022-12-15
-___
-
 # Wiki practice meets blogging
+
+`This is a permanent version, or snapshot, of this page. Please see Revision notes, below, for more details.`
 
 ## About this page
 
@@ -105,5 +102,5 @@ How is set out in detail in [[Manually creating permanent versions on this wiki]
 * version control (currently managed manually) 
 	* this is version: 3
 	* here is the current version: [[Wiki practice meets blogging]]
-	* previous version:  [[Wiki practice meets blogging 2]]
+	* previous version:  [[Wiki practice meets blogging 2 2023-01-29]]
 

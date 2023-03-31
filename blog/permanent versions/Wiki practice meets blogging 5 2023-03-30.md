@@ -1,5 +1,7 @@
 # Wiki practice meets blogging
 
+`This is a permanent version, or snapshot, of this page. Please see Revision notes, below, for more details.`
+
 ## About this page
 
 *ML:* we ([[Mathew Lowry]],  [[Peter Kaminski]], [[Bill Anderson]])  had a great chat as we prepared version 1 of this site on the difference in philosophy between wikis and blogging. We decided to write something together on it using Massive Wiki, to explore the issue by writing about it and to test he various collaboration Contribute and Commenting options we are proposing to this site's contributors. Key links:
@@ -46,6 +48,8 @@ Better, perhaps, to have **a canonical blog post which sets out the current vers
 
 *WLA (2022-12-11):* It seems to me that on wikis the authorship is not as important as the text of the wiki pages, and, perhaps, how well that content is written and cited.
 
+* *ML (2023-03-06):* yes, that's the most important difference. See below.
+
 *ML:* They are also not time-critical in nature and so are presented as part of an interconnected body of knowledge organised more by topic than creation date (how often do you visit Wikipedia to view it's "latest page"?). 
 
 So how would version control and permanent versions look like in this context?
@@ -54,9 +58,21 @@ tbc
 
 ## Combining blogs and wikis
 
-*ML:*  How would a site which combines wikis and blogs look?
+^dfa0a7
 
-tbc
+*ML:*  How would a site which combines wikis and blogs look? As both ML and WLA pointed out above, authorship is very different. 
+
+In a collaborative site like massive.wiki, bloggers might be reticent to write a blog post there, as all other members can edit it. On the other hand, if they are interested in massive.wiki, chances are they want to share their thoughts to spark a conversation. In blogs, that means attracting comments. But what happens when the blogger learns something from those comments? The blogger can either:
+
+* update the post, with all the problems that entails: the comments, for example, now look strange as they are reacting to a previous version of the text, now lost! 
+* create a new post, with all the problems that entails, above.
+
+If, however, there's a permanent version system in place, the blogger can:
+
+* post their piece and see it evolve from "*what one person thinks*" into a page representing the collective intelligence of the community
+* create a permanent version so they can always point to "*this was what I originally wrote*"
+
+So pemanent versions users on a collaborative wiki site to blog *and* contribute their ideas to a more collective intelligence.
 
 ## Massive Wiki user requirements
 
@@ -68,66 +84,38 @@ tbc
 
 ### Designing a first class function
 
-*ML:* In our chat we discussed a "first class function" for Massive Wiki for making a new major version of a file. With a click:
+^aeddc3
 
-* the version number of the file being edited is increased by 1, but remains the "current" version of the file, available at the primary URL (this one is "*domain/blog/The Way of the Wiki meets blogging*") 
-* a copy of the file is created in an archive folder, becoming the permanent copy of the previous version. It's filename includes the current version's filename appended with the version number and the creation date.
-	* Q: does it need a hash as well?
-* a link to the previous version is added to the current version (site feature)
-* all permanent copies can easily feature:
-	* a link to the current version (this is fixed at the first version, so doesn't need to be updated manually)
-	* a "search for all versions" (site feature: part of the permanent copy template) 
-	* an explanatory "this is a snapshot" label - see for example wikipedia's view history  (site feature: part of the permanent copy template)
+*ML:* In our chat we discussed a "first class function" for Massive Wiki for making a new major version of a file, (currently version "N"). With one click, this function:
+
+* increments the version number of the file being edited by 1, to "N+1". The file remains the "active" or current version of the file, available at the primary URL (this one is "*domain/blog/Wiki practice meets blogging*") 
+* creates a copy of the (version "N") file in an archive folder, applying the permanent copy template. This is thus the permanent copy of the previous version of the active file. 
+	* It's filename is the same, except with the version number and creation date appended (eg *Wiki practice meets blogging-N-YYYYMMDD*).
+		* Q: does it need a hash as well?
+	* the permanent copy template includes a link to forward to the current version of the file, a "search for all versions" feature and an explanatory "this is a snapshot" label 
+* adds a link from the current version of the file to the previous one (ie, the current "N+1" version of the file links back to "N"). As this link is kept when a new permanent version is created, a chain links each file to the next older version ("N" links back to "N-1", and so on)
 
 One problem I see here is that the Editor must decide to create a major version **before starting editing**, not after having worked on the content.
 
 ### Mimicking this manually
 
-*ML:* Note that almost all of the above can be done easily manually, which is what we'll have to do for this file - ie:
+*ML:* Note that almost all of the above can be done easily manually, which is what we'll have to do for this file and any other blog posts on this wiki. 
 
-* create v1 (*The Way of the Wiki meets blogging*), with the following version control section in the Revision Notes
-	* this is version: current
-	* here is the current version: [[Wiki practice meets blogging]] *(aware this looks odd, but as this is copied each time a new major version is created it will save a lot of time)*
-	* previous version: n/a
-* when it is time to work on v2
-	* duplicate the file, creating *"The Way of the Wiki meets blogging-1.md"* (that was the original filename), and 
-		* move it into the permanent versions subfolder
-		* add a "snapshot warning" at the top of the page pointing to version control section
-		* edit its version control section (*italic* = manual edits)
-			* this is version: *1*
-			* here is the current version: [[Wiki practice meets blogging]] 
-			* previous version: n/a
-	* edit the current version to link back to v1 in its version control section (*italic* = manual edits)
-		* this is version: current
-		* here is the current version: [[Wiki practice meets blogging]] 
-		* previous version: version 1: [[The Way of the Wiki meets blogging 1]]
-* when it is time to work on v3
-	* duplicate the current file, creating (*Wiki practice meets blogging-2*), and 
-		* move it into the permanent versions subfolder
-		* add a "snapshot warning" at the top of the page pointing to version control section
-		* edit its version control section
-			* this is version: *2*
-			* here is the current version: [[Wiki practice meets blogging]] 
-			* previous version: version 1: [[The Way of the Wiki meets blogging 1]]
-	* edit the current version
-		* this is version: current
-		* here is the current version: [[Wiki practice meets blogging]]
-		* previous version: version 2: [[The Way of the Wiki meets blogging-1]]
-
-Hence the creation of a major version entails the following manual processes:
+How is set out in detail in [[Manually creating permanent versions on this wiki]]. In brief, the creation of a major version entails the following manual processes:
 
 * creating a copy and moving it into a "permanent versions" subfolder
-* editing two lines in the new permanent version: changing "current" to N, and adding the "snapshot warning" 
-* editing one line in the current version: changing the label and link to the previous version to point to the newly created permanent version
-
-As set out above, I'm testing this with versions 1 & 2 before pushing both to the repo and opening the discussion.
+* editing two lines in the new permanent version
+* editing one line in the current version
 
 
 ---
 
 ## Revision Notes
 
+* 2023-03-27: new version created
+	* dates and alert messages added to all permanent versions
 * version control (currently managed manually) 
-	* this is version: 2
+	* this is version: 5
 	* here is the current version: [[Wiki practice meets blogging]]
-	* previous version:  [[The Way of the Wiki meets blogging 1]]
+	* previous version:  [[Wiki practice meets blogging 4 2023-03-27]]
+
