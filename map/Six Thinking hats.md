@@ -2,7 +2,7 @@
 
 Also known as [[6 Thinking hats]].
 
-One of the [[Tools]].
+One of the [[Practices]].
 
 A [[Thinking exercise]].
 

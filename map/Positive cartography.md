@@ -1,5 +1,5 @@
 # Positive cartography
 
-One of the [[Tools]].
+One of the [[Practices]].
 
 A kind of [[Visual thinking]].
