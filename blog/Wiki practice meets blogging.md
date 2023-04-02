@@ -93,6 +93,7 @@ Simple!
 ## Revision Notes
 
 * 2023-03-29: new version created, cleaned up for reposting to Medium
+	* 2023-04-01: reposted as [Two wiki authors and a blogger walk into a bar…](https://mathewlowry.medium.com/two-wiki-authors-and-a-blogger-walk-into-a-bar-7106c8376c6e)
 * version control 
 	* this is version: current
 	* here is the current version: [[Wiki practice meets blogging]]

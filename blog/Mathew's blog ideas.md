@@ -3,7 +3,6 @@
 
 # TFTMap-specific
 
-* Get [[Wiki practice meets blogging]] to the point where a permanent version can be reposted
 * [[Getting started with the TfTMap Massive.Wiki]]
 
 # Bigger picture
