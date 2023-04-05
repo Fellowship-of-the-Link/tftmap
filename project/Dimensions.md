@@ -1,6 +1,7 @@
 # Dimensions
 
 This page:
+
 * provides, in "Current Dimensions" some room for more details and discussion of  the thinking tool dimensions introduced in [[How we measure thinking tools]] 
 * uses [[Dimension Schema]] as a starting point
 * includes a place where you can propose new dimensions - see "Proposed Dimensions" 
