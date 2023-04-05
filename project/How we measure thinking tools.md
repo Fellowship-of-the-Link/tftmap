@@ -11,12 +11,15 @@ This is unlikely to be an easy balance to find, as:
 
 In Phase 1 of this project:
 
-* we are happy to discuss and improve the following dimensions while the code is being developed for version 2 - see [[Project plan]] and [[How to comment]]
-* we've tried to find a balance and keep the number of dimensions to a dozen or less. 
+*  we're trying to find a balance, keeping to around a dozen dimensions 
+* we are happy to discuss and improve them while the code is being developed for version 2 - see [[Project plan]]. 
 
-Note: in addition to the dimensions in the following table, Personal profiles includes a place to put your **Confidence** with the tool. We haven't figured out if and how we'll factor this in, but it looks like a good idea.
+## Dimensions at a glance
 
-All scores (including Confidence) are on a 1-10 scale (terrible - brilliant):
+The following table summarises [[Dimensions]], which provides more detail. Note:
+
+* in addition to these dimensions, Personal profiles include a place to score your **Confidence** with each tool or practice. While this seems like a good idea, we're still discussing how to factor Confidence scores into the map.
+* all scores (including Confidence) are on a 1-10 scale (terrible - brilliant):
 
 | **Dimension**           | **Definition**                                                                    | **To score highly**                                                                                                                          |
 | ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | 
@@ -38,7 +41,6 @@ All scores (including Confidence) are on a 1-10 scale (terrible - brilliant):
 ### Revision Notes
 
 * 2023-04-05: new major version
-	* 
 * version control 
 	* this is version: current
 	* here is the current version: [[How we measure thinking tools]]

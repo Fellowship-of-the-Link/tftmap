@@ -16,11 +16,9 @@ In Phase 1 of this project:
 * we are happy to discuss and improve the following dimensions while the code is being developed for version 2 - see [[Project plan]] and [[How to comment]]
 * we've tried to find a balance and keep the number of dimensions to a dozen or less. 
 
-## Dimensions at a glance
+Note: in addition to the dimensions in the following table, Personal profiles includes a place to put your **Confidence** with the tool. We haven't figured out if and how we'll factor this in, but it looks like a good idea.
 
-The following table summarises [[Dimensions]], which provides more detail. Note:
-* in addition to these dimensions, Personal profiles includes a place to score your **Confidence** with the tool or practice. While this seems like a good idea, we're still discussing how to factor Confidence scores into the map.
-* all scores (including Confidence) are on a 1-10 scale (terrible - brilliant)
+All scores (and Confidence) are on a 1-10 scale (terrible - brilliant):
 
 | **Dimension**           | **Definition**                                                                    | **To score highly**                                                                                                                          |
 | ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | 
