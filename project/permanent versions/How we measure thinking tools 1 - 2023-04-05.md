@@ -1,5 +1,7 @@
 # How we measure thinking tools
 
+`This is a permanent version, or snapshot, of this page. Please see Revision notes, below, for more details.`
+
 **The dimensions used to characterise thinking tools in the spidergraph on the [home page](README) need to find a balance between usability and granularity.**
 
 This is unlikely to be an easy balance to find, as:
@@ -14,9 +16,11 @@ In Phase 1 of this project:
 * we are happy to discuss and improve the following dimensions while the code is being developed for version 2 - see [[Project plan]] and [[How to comment]]
 * we've tried to find a balance and keep the number of dimensions to a dozen or less. 
 
-Note: in addition to the dimensions in the following table, Personal profiles includes a place to put your **Confidence** with the tool. We haven't figured out if and how we'll factor this in, but it looks like a good idea.
+## Dimensions at a glance
 
-All scores (including Confidence) are on a 1-10 scale (terrible - brilliant):
+The following table summarises [[Dimensions]], which provides more detail. Note:
+* in addition to these dimensions, Personal profiles includes a place to score your **Confidence** with the tool or practice. While this seems like a good idea, we're still discussing how to factor Confidence scores into the map.
+* all scores (including Confidence) are on a 1-10 scale (terrible - brilliant)
 
 | **Dimension**           | **Definition**                                                                    | **To score highly**                                                                                                                          |
 | ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | 
@@ -29,17 +33,16 @@ All scores (including Confidence) are on a 1-10 scale (terrible - brilliant):
 | Multiplayer        | Allows teamwork                                                                   | Group-based collaboration: groups, permissions, workflows, version control, commenting, moderation...                                           |
 | Help               | Is it easy to find high-quality documentation and answers to common questions?    | Well-organised onboarding, documentation & FAQ system.                                                                                           |
 | Community          | Is there a supportive community around the tool                                   | Helpful community, active 3rd party developers, etc.                                                                                            |
-| Cost               | How expensive is the tool?                                                         | A top score indicates a zero price. High scores indicate a low price and/or a very useful freemium version.                                                                                |
-| Data sovereignty   | Who owns your data?                                                               | Data sovereignty means you control your files, so a top score generally means your files are on your PC.                                                                                                                          |
+| Cost               | How expensive is the tool                                                         | Free, or at least a v. useful free version in a freemium model. (Less is better.)                                                                                 |
+| Data sovereignty   | Who owns your data?                                                               | Your files on your PC. (Sovereignty - you control the files - is better.)                                                                                                                          |
 | 
 
 ---
 
 ### Revision Notes
 
-* 2023-04-05: new major version
-	* 
-* version control 
-	* this is version: current
+* version control:
+	* this is version: 1
 	* here is the current version: [[How we measure thinking tools]]
-	* previous version:  [[How we measure thinking tools 1 - 2023-04-05]]
+	* previous version:  n/a
+* 2023-01-19: added 'Confidence'

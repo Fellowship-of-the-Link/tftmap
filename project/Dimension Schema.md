@@ -1,5 +1,7 @@
 # Dimension Schema
 
+Developed from [[defining measurements]], used in [[Dimensions]].
+
 ## Current Dimensions
 
 ### Axis
