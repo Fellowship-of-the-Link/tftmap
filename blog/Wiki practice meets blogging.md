@@ -12,7 +12,7 @@ That tells us something about the difference between wikis and blogs. The team d
 
 ## Two wiki authors and a blogger walk into a bar...
 
-The TfTMap is a Massive Wiki pilot project, led by Massive Wiki inventors ([[Peter Kaminski]] and [[Bill Anderson]]) teaming up with [[Mathew Lowry]], a blogger since 2007. 
+The TfTMap is a Massive Wiki pilot project, involving Massive Wiki inventor [[Peter Kaminski]] and early adopter [[Bill Anderson]], teaming up with [[Mathew Lowry]], a blogger since 2007. 
 
 It was perhaps inevitable that we had a great chat on the difference in philosophy between wikis and blogging, but it started from more prosaic questions of **version control and permanence in Massive Wiki**: should previous versions of a wiki page be made available? Which ones? How? Does it matter if visitors to an old version cannot find the latest one? Who does it matter to? 
 
