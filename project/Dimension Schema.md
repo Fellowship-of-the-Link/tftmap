@@ -1,25 +1,13 @@
 # Dimension Schema
 
-Developed from [[defining measurements]], used in [[Dimensions]].
+This file is a template for defining the dimensions used, as set out in [[How we measure thinking tools]]. It is based on   [[Anderson_2017_usableDataProperties.pdf]]. 
 
-## Current Dimensions
+## Dimension Name
 
-### Axis
-
-*description goes here*
-
-### Definition
+### Dimension Definition
 
 *description goes here*
 
 ### To score highly
 
-*description goes here*
-
-## Proposed Dimensions
-
-_stuff goes here_
-
-## Dimensions We Decided Not To Use
-
-_stuff goes here_
+*What characteristics does a tool need to have to get a high score on this dimension?*

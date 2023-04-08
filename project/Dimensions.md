@@ -1,13 +1,6 @@
 # Dimensions
 
-This page:
-
-* provides, in "Current Dimensions" some room for more details and discussion of  the thinking tool dimensions introduced in [[How we measure thinking tools]] 
-* uses [[Dimension Schema]] as a starting point
-* includes a place where you can propose new dimensions - see "Proposed Dimensions" 
-* includes a place where we park dimensions we've considered and discarded.
-
-All contributions welcome (see [[How to contribute]]).
+*This page is currently unused. It contains the 2023-04-08-version dimensions in [[How we measure thinking tools]] in linear, rather than tabular format. It may be used in the future.*
 
 ## Current Dimensions
 
@@ -138,6 +131,7 @@ _stuff goes here_
 
 ### Revision Notes
 
+* 2023-04-08: archived following yesterday's meeting.
 * 2023-04-05: first full version
 	* collapsed "Axis description" and "Definition" into one, as am unsure of difference
 * version control 

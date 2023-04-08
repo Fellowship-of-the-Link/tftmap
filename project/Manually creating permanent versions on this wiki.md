@@ -18,6 +18,7 @@ In the **very first version** of any "versioned" page this version control secti
 
 When it is time to update the current file, duplicate the file, creating \[\[filename-1\]\], and:
 
+* append the date to the filename - eg filename-1-YYYY-MM-DD
 * move it into the permanent versions subfolder
 * add a "snapshot warning" at the top of the page pointing to version control section
 * edit its version control section (*italic* = manual edits)

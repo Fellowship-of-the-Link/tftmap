@@ -7,16 +7,18 @@ This is unlikely to be an easy balance to find, as:
 * the people *contributin*g this data know the tools well (and so will generally prefer granularity). 
 * but *this map is aimed at newcomers*, for whom usability is more important as they try and find their way through this landscape.
 
+
 ## Phase 1
 
 In Phase 1 of this project:
 
 *  we're trying to find a balance, keeping to around a dozen dimensions 
-* we are happy to discuss and improve them while the code is being developed for version 2 - see [[Project plan]]. 
+* we are happy to discuss and improve them while the code is being developed for version 2 (see [[Project plan]]). **Instructions for contributing follow the table.** 
 
-## Dimensions at a glance
 
-The following table summarises [[Dimensions]], which provides more detail. Note:
+## Current dimensions at a glance
+
+The following table summarises the current set of proposed dimensions. Note:
 
 * in addition to these dimensions, Personal profiles include a place to score your **Confidence** with each tool or practice. While this seems like a good idea, we're still discussing how to factor Confidence scores into the map.
 * all scores (including Confidence) are on a 1-10 scale (terrible - brilliant):
@@ -35,6 +37,28 @@ The following table summarises [[Dimensions]], which provides more detail. Note:
 | Cost               | How expensive is the tool?                                                         | A top score indicates a zero price. High scores indicate a low price and/or a very useful freemium version.                                                                                |
 | Data sovereignty   | Who owns your data?                                                               | Data sovereignty means you control your files, so a top score generally means your files are on your PC.                                                                                                                          |
 | 
+
+___
+
+## Comments, Suggestions?
+
+If you have any comments, suggestions or requests:
+
+* please add a comment, below
+* and/or create a separate page for the dimension you wish to comment, develop or suggest using [[Dimension Schema]] as a template (see [[How to contribute]]). Then: 
+	* if it is already listed in the above table, add a link to it in the first column
+	* if it is new, add a link to it under "Proposed Dimensions", below.
+
+
+### Proposed Dimensions
+
+Want to suggest a new dimension? Create a file using [[Dimension Schema]] as a template (see [[How to contribute]]), and link to it here. Please include your name
+
+
+### Dimensions We Decided Not To Use
+
+_A place to park unused dimensions_
+
 
 ---
 

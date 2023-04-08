@@ -2,7 +2,7 @@
 
 ## 2023-04-05
 
-Adapted for [[Dimension Schema]], which is then used in [[Dimensions]].
+Adapted for [[Dimension Schema]].
 
 
 ## 2022-11-02
