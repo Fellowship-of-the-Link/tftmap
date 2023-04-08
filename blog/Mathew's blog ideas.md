@@ -7,7 +7,6 @@
 
 # Bigger picture
 
-* [[Concept maps for massive wiki]] to heatmap and compare ecosystem maturity
 * [[Obsidian book club goes massive.wiki?]]
 
 # Other

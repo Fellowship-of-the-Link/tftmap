@@ -1,8 +1,8 @@
 # Wiki practice meets blogging
 
-**What can wikis offer blogging, and vice versa, particularly in a decentralised collective intelligence environment?** 
+`This is a permanent version, or snapshot, of this page. Please see Revision notes, below, for more details.`
 
-*Preface: While you're reading the "current" version of this page, you can explore the previous versions via the Revision Notes at the end.*
+**What can wikis offer blogging, and vice versa, particularly in a decentralised collective intelligence environment?** 
 
 Are you reading a blog post or a wiki page right now? And what's with that preface in italics, above?  
 
@@ -88,16 +88,6 @@ While a first class function would be nice, it's very easy to do manually, as se
 
 Simple!
 
-## Sadly, not so simple
-
-If only it were so simple. The above pattern is easy, but it falls down and/or is not automisable under a wide range of circumstances:
-
-* if titles change, and the URL changes with them
-* if a page is split in two
-* etc.
-
-More sophisticated patterns, based on more powerful version control approaches borrowed from software development, could be developed. Watch this space...
-
 ---
 
 ## Revision Notes
@@ -105,7 +95,7 @@ More sophisticated patterns, based on more powerful version control approaches b
 * 2023-03-29: new version created, cleaned up for reposting to Medium
 	* 2023-04-01: reposted as [Two wiki authors and a blogger walk into a bar…](https://mathewlowry.medium.com/two-wiki-authors-and-a-blogger-walk-into-a-bar-7106c8376c6e)
 * version control 
-	* this is version: current
+	* this is version: 6
 	* here is the current version: [[Wiki practice meets blogging]]
-	* previous version:  [[Wiki practice meets blogging 6 2023-04-08]]
+	* previous version:  [[Wiki practice meets blogging 5 2023-03-30]]
 

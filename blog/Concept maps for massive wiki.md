@@ -1,21 +1,21 @@
 # Concept maps for massive.wiki
 
-**Many thinking tools provide a concept map of the users' notes, either off the shelf or via plug-ins. These maps, however, won't currently appear on the web-facing version of a massive.wiki. Should they, and if so how could such multi-author concept maps work?** 
+**Many thinking tools provide a graphical map of the users' notes, either off the shelf or via plug-ins. These maps, however, won't currently appear on the web-facing version of a massive.wiki. Should they, and if so what features would we like to see?** 
 
-*(This post is massively incomplete. Please dont let that stop you contributing, as I've taken a permanent version snapshot (see [[#^668be5|Revision notes]]).*
+*(This post is massively incomplete. Please dont let that stop you contributing, as I take permanent version snapshots reasonably regularly (see [[#^668be5|Revision notes]]).*
 
 A few months ago [Jerry Michalski ](https://www.jerrymichalski.com/) recommended Steven Pinker's book *[
 The Better Angels of Our Nature: Why Violence Has Declined](https://stevenpinker.com/publications/better-angels-our-nature)* to me. It's huge, covering 1000s of years of human history in almost 850 dense pages, followed by 60 pages of notes, another 60 of references and a 50-page index. 
 
 I found myself regretting, as I finished it, that I hadn't read it with my laptop alongside me, making notes as I go. There are just so many ideas in it, each supported by a web of data, scientific papers and other ideas, that it's impossible to hold all of it in my head. The book's notes, references and index are useful, but they're locked away in my bookshelf, not here where I need them in my notes, let alone sharable with others. 
 
-So it got me thinking: if I was to note what I found in a book like Pinker's, could I organise and present those notes graphically via a concept map, to help me get the most out of them? And how could I share, discuss and compare my concept map with other people, given that Pinker's book has generated plenty of [opposing challenges and critiques](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature#Criticism)?
+So it got me thinking: if I was to note what I found in a book like Pinker's, could I organise and present those notes graphically to help me get the most out of them? And how could I share, discuss and compare this map with other people, given that Pinker's book has generated plenty of [opposing challenges and critiques](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature#Criticism)?
 
-In parallel, I wanted to draw up a "maturity heatmap" of the minimum viable ecosystem for decentralised collective intelligence. Could a concept map do the trick?
+In parallel, I wanted to draw up a "maturity heatmap" of the [minimum viable ecosystem for decentralised collective intelligence](https://mathewlowry.medium.com/a-minimum-viable-ecosystem-for-collective-intelligence-7738848ce9c4). Could a graphical map of notes do the trick?
 
-This post sets out some ideas of how that could look. While I'm not clever enough to then provide solutions, later versions of this post will hopefully include some first attempts to play with Obsidian's graph view and Juggl. 
+This post sets out some ideas of how that could look. While I'm not clever enough to then provide solutions, later versions of this post will hopefully include some first attempts to play with Obsidian's graph view and Juggl. For now, **I just want to visualise the idea to stimulate ideas from people cleverer than me.** 
 
-For now, I just want to visualise the idea.
+*Caveat*: I already know that what I'm describing below are not "concept maps" (a term I'm using very loosely), and that I'm describing very limited applications of powerful technologies (eg RDF triples) which are not entering the consumer mainstream anytime soon.
 
 ## More than a list of notes
 
@@ -41,7 +41,7 @@ Obsidian's graph view presents each note as a node, bidirectionally linked, with
 
 However a really good set of notes from such a book would reflect the above ideas and the actual (sub)chapter structure of the book itself. 
 
-## Concept maps
+## Idea/Fact maps
 
 ### Ideas, Facts and the relationships between them
 
@@ -59,13 +59,13 @@ In the above picture, each note is a node, as before. However:
 
 The graph shows some links as single-headed and others as double-headed arrows, to avoid an Ideas appearing to Support a Fact. This does *not* mean that a user exploring an Idea would not see the Facts supporting or contesting it.
 
-Such a concept map would ideally emerge from one's notes as a force-directed graph of nodes simply by labelling notes as either Idea or Fact, and including some semantic information (Support/Contest) on the links between them.
+Such a map would ideally emerge from one's notes as a force-directed graph of nodes simply by labelling notes as either Idea or Fact, and including some semantic information (Support/Contest) on the links between them.
 
 While that would be totally automated, however, it might also be useful to be able to "boost" or reposition specific nodes.
 
 ### Filters not shown
 
-You would, of course, be able to filter the above Concept Map using any of the book's 15 overarching ideas. Not shown in the above figure, however, are all the other filters you could employ:
+You would, of course, be able to filter the above map using any of the book's 15 overarching ideas. Not shown in the above figure, however, are all the other filters you could employ:
 
 * You should be able to filter by **type**: Idea or Fact
 * Each node would have **subject tags**, allowing you to filter with greater granularity than Pinker's 15 overarching ideas.
@@ -81,9 +81,9 @@ You would, of course, be able to filter the above Concept Map using any of the b
 
 ## Linking ideas and facts across books ...
 
-**Source tags means a concept map of Steven Pinker's book is simply a filtered view of *all* of your notes interlinked in this way.** 
+**Source tags means a map of Steven Pinker's book is simply a filtered view of *all* of your notes interlinked in this way.** 
 
-And that, of course, means that rather than have a separate concept map for each books, I could have a concept map encompassing all the Ideas and Facts I've identified from both *"Better Angels"* and the book I read next: [*Yuval Noah Harrari's Sapiens*](https://www.ynharari.com/book/sapiens-2/), which also examines the evolution and history of our species and culture. All I'd need to do is filter my global concept map by *"Better Angels"* and *"Sapiens"* source tags, combined with an "OR" operator.
+And that, of course, means that rather than have a separate map for each book, I could have a map encompassing all the Ideas and Facts I've identified from both *"Better Angels"* and the book I read next: [*Yuval Noah Harrari's Sapiens*](https://www.ynharari.com/book/sapiens-2/), which also examines the evolution and history of our species and culture. All I'd need to do is filter my global map by *"Better Angels"* and *"Sapiens"* source tags, combined with an "OR" operator.
 
 And *that*, in turn, would allow me to add Support/Contest links *between* the Ideas and Facts from different sources. This would probably also require an **"Equivalent" relationship**, for when Ideas or Facts from different Sources turn out to be the same:
 
@@ -93,9 +93,9 @@ And *that*, in turn, would allow me to add Support/Contest links *between* the I
 
 **What happens when this goes Multiplayer?**
 
-A community collaborating on a set of notes should see exactly the same behaviour as an individual, but it gets more interesting when concept maps developed separately are combined and compared.
+A community collaborating on a set of notes should see exactly the same behaviour as an individual, but it gets more interesting when maps developed separately are combined and compared.
 
-Imagine two communities developing two different concept maps on the same underlying Source material. Then imagine an ecosystem which allows these maps to be discovered, linked, contrasted, compared and possibly even combined. How might that look?
+Imagine two communities developing two different maps on the same underlying Source material. Then imagine an ecosystem which allows these maps to be discovered, linked, contrasted, compared and possibly even combined. How might that look?
 
 ![[multi-user_map.png]]
 It turns out that it looks more or less identical to the previous image, except that instead of adding Support, Contest and Equivalent links between Ideas and Facts in different sources, you're doing so between different communites' maps. 
@@ -104,7 +104,7 @@ And those maps can actually be based on the same or different source material: t
 
 ## Heatmaps: further layers of information
 
-*Could the same concept maps have "heatmap overlays"?*
+*Could the same maps have "heatmap overlays"?*
 
 Characterising the above relationships in such a trinary fashion (Supports, Contests or Equivalent) lacks a lot of nuance. Sometimes you may want to add a qualifier, like "*somewhat* Supports" or "*roughly* Equivalent". 
 
@@ -114,9 +114,9 @@ I, for example, would love to see a "maturity heatmap" showing the technical/mar
 
 ![[heatmaps.gif]]
 
-And then I'd love to see an array of such heatmapped concept maps, allowing me to see at a glance which ecosystem is closest to maturity.
+And then I'd love to see an array of such heatmaps, allowing me to see at a glance which ecosystem is closest to maturity.
 
-So could the concept maps explored above also include heatmaps? Presumably each node would include a value for each overlay (eg something like `maturity::4`). These values could even be calculated from the nodes linked to it, somewhat similar to the way the spidergraph in this massive.wiki (will) present average scores for each tool for thought, calculated from the profiles of the people using it.
+The maps explored above could also include heatmaps by adding to each node a value for each overlay (eg something like `maturity::4`). These values could even be calculated from the nodes linked to it, somewhat similar to the way the spidergraph in this massive.wiki (will) present average scores for each tool for thought, calculated from the profiles of the people using it.
 
 ## Solutions 
 
