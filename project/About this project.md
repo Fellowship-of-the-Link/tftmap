@@ -34,7 +34,7 @@ Example:  [[Mathew Lowry]]. Ideally everyone who rates the tools for the spiderg
 These are both zettelkasten overviews:
  
 * **Practice**: describes a thinking tool practice, e.g., [[inbox curation]] It includes a brief description, link(s) and an automatically created list of the people who use this practice, along with the associated bullet from their profile describing *how* they use it
-* **Tool**: similar to a practice, but describes a thinking tool, e.g., [[Roam]] or [[Pocket]], and
+* **Tool**: similar to a practice, but describes a thinking tool, e.g., [[roam research]] or [[Pocket]], and
 	* an automated list of people profiles which use it, along with the associated bullet from their profile describing how they use it
 	* **the scores they gave it** (only actual scores included; blanks are not imported).
 

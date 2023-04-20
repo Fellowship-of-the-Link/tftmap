@@ -1,4 +1,4 @@
-# Roam
+# Roam Research
 One of the [[Tools]]
 
 ## What it is
@@ -12,7 +12,7 @@ Description contributed by [[Mathew Lowry]]
 
 _This section will be generated automatically in the future, and can be left out if you've copied this page to use for another tool._
 
-* [[Mathew Lowry]] (confidence: 3): *I put all other notes into [[Roam]], almost always starting with the [[daily note]], but am currently migrating to [[Obsidian]].*
+* [[Mathew Lowry]] (confidence: 3): *I put all other notes into [[roam research]], almost always starting with the [[daily note]], but am currently migrating to [[Obsidian]].*
   **Scores (1-10):**
 	* Note-making: 8
 	* Writing/Publishing: 2
@@ -22,8 +22,10 @@ _This section will be generated automatically in the future, and can be left out
 	* Community: 2
 	* Cost: 1
 	* Data sovereignty: 2
-* [[Another Person Profile]]:  *a bullet from his/her "Who uses it, how" section which includes [[Roam]]* 
+* [[Flancian]] *I've also used in the past: [[Roam Research]] (would not recommend), [[Obsidian]] (can recommend it, although it's not open source), [[Foam]] (would recommend it to technical users who are comfortable using VSCode), [[Logseq]] (would recommend it).*
+* [[Another Person Profile]]:  *a bullet from his/her "Who uses it, how" section which includes [[roam research]]* 
 
 ### Revision Notes
 
+* 2023-04-20: retitled and renamed to "roam research" to reflect naming policy
 * 2023-01-22: updated to match current practice template

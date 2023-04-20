@@ -1,11 +1,12 @@
 # Project plan 
 
+Welcome to the project plan for edition 1 of the Tools for Thought Map.
 
 ## Right Now: Phase 1 (FoTL/OGM early adopters)
 
 ### Two activities in parallel:
 
-* Open our discussion about the scoring dimensions to early adopters from FoTL/OGM community and try to get a consensus (see [[How we measure thinking tools]]) 
+* Open our discussion about the scoring dimensions to early adopters from FoTL/OGM community (see [[How we measure thinking tools]]) 
 * get the basic code working and test it
 * all early adopters provide personal profiles and contribute content to Tool and Practice pages 
 
@@ -40,18 +41,18 @@ We might do this several times before the site is ready for...
 ### Phase 3: Full launch
 The site is promoted by all contributors.
 
-Details TBD.
+Details TBD, but it will almost certainly involve implementing some of the improvements resulting from Phase 2.
 
-Optionally (*this may be outside project scope, could come later*): 
-
-Add a system allowing non Obsidian / GitHub users to 
+Optionally (*this may be outside Edition 1 scope, could come later*): add a system allowing non Obsidian / GitHub users to 
 * submit their profile
 * add tools and technique files
 * provide scores
 
-### Plan the next project
+## Future editions
 
-We should have plenty of ideas...
+The idea of having "editions" of the map emerged when we considered that at some point we may need to revise the dimensions we use (see [[How we measure thinking tools]]). 
+
+If we *do* revise these dimensions after Phase 1, the data provided by early adopters would need to be manually updated. We see that as  representing a new edition.
 
 --- 
 
