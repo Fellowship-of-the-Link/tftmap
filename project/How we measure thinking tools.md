@@ -4,7 +4,7 @@
 
 This is unlikely to be an easy balance to find, as:
 
-* the people *contributin*g this data know the tools well (and so will generally prefer granularity). 
+* the people *contributing* this data know the tools well (and so will generally prefer granularity). 
 * but *this map is aimed at newcomers*, for whom usability is more important as they try and find their way through this landscape.
 
 We're trying to find a balance, and want to stick to around a dozen dimensions. We're happy to discuss and improve them for future editions of the Map (see [[Project plan]]), so **check out how to contribute below  the table.**
@@ -17,7 +17,7 @@ The following table summarises the current dimensions. Note:
 * all scores (including Confidence) are on a 1-10 scale (terrible - brilliant):
 
 | **Dimension**           | **Definition**                                                                    | **To score highly**                                                                                                                          |
-| ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | 
+| ------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Openness           | How well does it play with other tools? How interoperable is it? | F/OSS.  Use open standards.  Has an API.  Import/Export  Allow 3rd party plugins.  Available on all OSs, platforms.  Supports structured data      |
 | Note-making        | How good is it as a note-making tool?                                             | Good outliner (easy indent/outdent, reorder, fold/zoom...)  Atomic note structure, block references.  Zettelkasten support.                       |
 | Writing/Publishing | How good is it as a writing & publishing tool?                                    | WYSIWYG, zen writing environment/design, editing feature set, seamless publishing system to Web, Social.                                         |
@@ -29,7 +29,7 @@ The following table summarises the current dimensions. Note:
 | Community          | Is there a supportive community around the tool                                   | Helpful community, active 3rd party developers, etc.                                                                                            |
 | Cost               | How expensive is the tool?                                                         | A top score indicates a zero price. High scores indicate a low price and/or a very useful freemium version.                                                                                |
 | Data sovereignty   | Who owns your data?                                                               | Data sovereignty means you control your files, so a top score generally means your files are on your PC.                                                                                                                          |
-| 
+|
 
 ___
 
@@ -38,8 +38,8 @@ ___
 If you have any comments, suggestions or requests:
 
 * please add a comment, below
-* and/or create a separate page for the dimension you wish to comment, develop or suggest, (see [[How to contribute]]), using [[Dimension Schema]] as a template. Then: 
-	* if you are commenting on or developing a dumention already listed in the above table, add a link to it in the first column
+* and/or create a separate page for the dimension you wish to comment, develop or suggest, (see [[How to contribute]]), using [[Dimension Schema]] as a template. Then:
+	* if you are commenting on or developing a documentation already listed in the above table, add a link to it in the first column
 	* if you are suggesting a new dimension, add a link to it under "Proposed Dimensions", below.
 
 
@@ -59,7 +59,7 @@ _A place to park unused dimensions_
 
 * 2023-04-20: tweaked : we're using this set of dimensions for now, as well as collecting ideas for revisions in future editions of the map
 * 2023-04-05: new major version
-* version control 
+* version control
 	* this is version: current
 	* here is the current version: [[How we measure thinking tools]]
 	* previous version:  [[How we measure thinking tools 1 - 2023-04-05]]
