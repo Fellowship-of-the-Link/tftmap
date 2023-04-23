@@ -1,6 +1,6 @@
 # How to use this site
 
-**This site presents the collective knowledge of [NN* People](People) about the thinking tools they use.** 
+**This site presents the collective knowledge of [[People|NN* People]] about the thinking tools they use.** 
 
 Here's how to tap that knowledge.
 
