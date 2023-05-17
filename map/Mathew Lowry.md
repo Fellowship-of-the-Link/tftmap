@@ -19,7 +19,7 @@ How close is my current system (below) to this ideal? Not at all, which is why I
 * I use  [[inbox curation]] to identify high-priority sources of content: in [[gmail]] I auto-label high-priority [[newsletter]], and I maintain a [[twitter list]]
 * I use [[GTD]]: I have recurring [[calendar]] items and tasks to [[scan]] priority sources; [[queue]] the best content to read to [[Pocket]]; read, [[annotate]] and [[tag]] the best content into [[myhub]]
 * I also use [[progressive summarisation]] to better embed the knowledge,  via [[zettelkasten]] overviews in [[myhub]], [[enewsletter]] editions and original posts.
-* I put all other notes into [[roam research]], almost always starting with the [[daily note]], but am currently migrating to [[Obsidian]]
+* I put all other notes into [[Roam Research]], almost always starting with the [[daily note]], but am currently migrating to [[Obsidian]]
 * I publish via [[myhub]], medium and my [[newsletter]].
 
 More: [All the Stuff I Think tagged Content strategy and Productivity](https://myhub.ai/@mathewlowry/?tags=content+strategy&types=think&timeframe=anytime&quality=all&tags=productivity)
